@@ -16,7 +16,8 @@ Project part of the DARE 2025 where a broadcast model was written using TLA+ and
 ### Running the Model
 
 1. In the Toolbox, open the specification
-2. Go to `File > Open Model > all_broadcast___model`
+2. Go to `TLC Model Checker > (New) or Open Model > select model`
+4. If created new model check that variables and parameters are set correctly
 3. Click the "Model Check" button (green play button) to verify the specification
 
 ## File Structure
